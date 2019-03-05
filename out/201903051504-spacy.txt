@@ -1,0 +1,5 @@
+spaCy is an open-source software library for advanced Natural Language Processing. spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. 
+The library respects your time, and tries to avoid wasting it. It's easy to install, and its API is simple and productive. 
+
+source: https://github.com/full-stack-hero/snippet/blob/master/snippet/snippets/201903051504-spacy.py
+#fullstackhero #design #hacking #softwareengineer #programminglife #dev #webdev #business #hacker #engineer #art #programmerslife #coders #developers #programmerlife #programmingmemes #website #nodejs #softwareengineering #angular #frontend #machinelearning #artificialintelligence #devlife #worldcode #innovation #cybersecurity #electronics #geek #nerd

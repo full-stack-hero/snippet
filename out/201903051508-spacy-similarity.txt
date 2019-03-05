@@ -1,0 +1,6 @@
+spaCy is able to compare two objects, and make a prediction of how similar they are. Predicting similarity is useful for building recommendation systems or flagging duplicates. 
+For example, you can suggest a user content that's similar to what they're currently looking at, or label a support ticket as a duplicate if it's very similar to an already existing one. 
+Download the model "en_core_web_md" to try this example python -m spacy download en_core_web_md 
+
+source: https://github.com/full-stack-hero/snippet/blob/master/snippet/snippets/201903051508-spacy-similarity.py
+#fullstackhero #design #hacking #softwareengineer #programminglife #dev #webdev #business #hacker #engineer #art #programmerslife #coders #developers #programmerlife #programmingmemes #website #nodejs #softwareengineering #angular #frontend #machinelearning #artificialintelligence #devlife #worldcode #innovation #cybersecurity #electronics #geek #nerd
