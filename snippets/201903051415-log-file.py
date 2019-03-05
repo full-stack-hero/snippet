@@ -1,3 +1,5 @@
+# :autor: @full.stack.hero
+# :url: https://github.com/full-stack-hero/snippet/blob/master/snippet/snippets/201903051415-log-file.py
 # An Apache logfile can be huge and hard to read.
 # Here is a way to get a list of the most visited pages (or files) from an
 # Apache logfile.

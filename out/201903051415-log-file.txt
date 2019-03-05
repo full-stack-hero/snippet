@@ -1,0 +1,5 @@
+An Apache logfile can be huge and hard to read. Here is a way to get a list of the most visited pages (or files) from an Apache logfile. 
+In this example, we only want to know the URLs from GET requests. We will use the wonderful Counter which is in Python's Collections 
+
+source: https://github.com/full-stack-hero/snippet/blob/master/snippet/snippets/201903051415-log-file.py
+#fullstackhero #design #hacking #softwareengineer #programminglife #dev #webdev #business #hacker #engineer #art #programmerslife #coders #developers #programmerlife #programmingmemes #website #nodejs #softwareengineering #angular #frontend #machinelearning #artificialintelligence #devlife #worldcode #innovation #cybersecurity #electronics #geek #nerd
